@@ -1,0 +1,9 @@
+ai-ml-final-project/
+├── data/                  # Datasets (raw/processed)
+├── notebooks/             # Jupyter Notebooks (EDA, Model Training)
+├── src/                   # Python scripts (data preprocessing, train.py, predict.py)
+├── app.py                 # Application interface (Streamlit, Flask, or Gradio)
+├── models/                # Saved trained model artifacts (.pkl, .h5, etc.)
+├── requirements.txt       # Python dependencies
+├── .gitignore             # Files to ignore (e.g., venv, large models, API keys)
+└── README.md              # Project documentation

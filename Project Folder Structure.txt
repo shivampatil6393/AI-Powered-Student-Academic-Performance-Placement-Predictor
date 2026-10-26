@@ -1,0 +1,12 @@
+ai-student-placement-predictor/
+├── data/
+│   └── student_data.csv
+├── src/
+│   ├── generate_data.py
+│   └── train_model.py
+├── models/
+│   ├── placement_model.pkl
+│   └── scaler.pkl
+├── app.py
+├── requirements.txt
+└── README.md
